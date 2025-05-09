@@ -1,0 +1,4 @@
+Speech Recognition Active. Say 'exit' to quit.
+Adjusting for ambient noise...
+Listening... Speak now!
+You said: hi i am s i y a
